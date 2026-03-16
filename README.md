@@ -148,4 +148,4 @@ while(player):
 ```
 ## Output:
 
-
+![alt text](FOAI-10.png)
